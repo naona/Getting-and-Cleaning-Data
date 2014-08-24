@@ -9,11 +9,11 @@ Here are the data for the project:
 ## Variables
 
 xTrain: a data frame from (data)/train/X_train.txt. Column name changes to name the features  
-yTrain: a data frame from (data)/train/y_train.txt. 1st column name changes to "activity". 1st column value changes to name the activities      
+yTrain: a data frame from (data)/train/y_train.txt. 1st column name changes to "activity". 1st column values changes to name the activities      
 subjectTrain: a data frame from (data)/train/subject_train.txt. Column name changes to "subjectid"   
 
 xTest: a data frame from (data)/test/X_test.txt. Column name changes to name the features  
-yTest: a data frame from (data)/test/y_test.txt. 1st column name changes to "activity". 1st column value changes to name the activities    
+yTest: a data frame from (data)/test/y_test.txt. 1st column name changes to "activity". 1st column values changes to name the activities    
 subjectTest: a data frame from (data)/test/subject_test.txt. Column name changes to "subjectid"  
 
 featuresdf: a data frame from (data)/features.txt  
