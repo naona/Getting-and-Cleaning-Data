@@ -11,6 +11,7 @@
  
 run_analysis <- function(directory) {    
     
+    library(plyr)
     setwd(directory)
     
     #get from train 
