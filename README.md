@@ -42,4 +42,4 @@ output
 data.txt on working directory  
 
 Note  
-This function require package "plyr".  
+This function requires package "plyr".  
